@@ -5,12 +5,6 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "web",
-            "request": "launch",
-            "type": "dart",
-            "args": ["-d","chrome"]
-        },
-        {
             "name": "flutter_todo",
             "request": "launch",
             "type": "dart"
